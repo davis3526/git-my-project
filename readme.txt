@@ -1,5 +1,5 @@
 Welcome to Git tutorial
 
-Author: Daniel Singraj
+Author: Daniel Davis Singraj
 Twitter: @daniel
 
